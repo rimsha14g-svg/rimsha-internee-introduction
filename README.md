@@ -20,3 +20,25 @@ Watch my introduction video on LinkedIn:
 - Logo Design
 - Branding
 - Packaging Design
+
+
+## Task 02 – Internship Impact Infographic
+
+Created as part of my Graphic Design Internship at Internee.pk.
+
+### Project Preview
+
+View my infographic poster on LinkedIn:
+
+[View LinkedIn Post](https://lnkd.in/p/dP3E7ZE4)
+
+### Skills Practiced
+- Infographic Design
+- Typography
+- Visual Hierarchy
+- Data Visualization
+- Layout & Composition
+
+**Designer:** Rimsha Gulzar
+
+**Role:** Graphic Designer Intern at Internee.pk
