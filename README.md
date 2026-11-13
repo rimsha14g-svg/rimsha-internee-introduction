@@ -42,3 +42,34 @@ View my infographic poster on LinkedIn:
 **Designer:** Rimsha Gulzar
 
 **Role:** Graphic Designer Intern at Internee.pk
+
+## Task 03 – Responsive Hero Banner Design
+
+Created as part of my Graphic Design Internship at Internee.pk.
+
+### Project Preview
+
+View my hero banner designs on LinkedIn:
+
+[View LinkedIn Post](https://www.linkedin.com/in/rimsha-gulzar-733b95333/)
+
+### Project Deliverables
+
+- Internship Programs – Desktop & Mobile
+- Job Portal – Desktop & Mobile
+- LMS – Desktop & Mobile
+
+### Skills Practiced
+
+- Website Hero Banner Design
+- Responsive Design
+- Typography
+- Visual Hierarchy
+- Brand Consistency
+- Layout & Composition
+
+**Tools Used:** Canva or Photoshop
+
+**Designer:** Rimsha Gulzar
+
+**Role:** Graphic Designer Intern at Internee.pk
